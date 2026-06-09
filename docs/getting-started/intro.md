@@ -9,6 +9,8 @@ title: Acode Plugins
 
 ### What are Acode Plugins?
 
+nahh,, its arthurs edited ediited login page
+
 **Acode** plugins serve as powerful tools to enhance and extend the functionality of your **Acode editor**. Whether you're looking to introduce new features or tweak existing ones, plugins provide a flexible and customizable way to tailor Acode to your specific needs.
 
 ### Language Flexibility
